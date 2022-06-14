@@ -156,7 +156,7 @@ section {
         padding: 1rem 2rem;
         border-radius: 10px;
         box-shadow: var(--box-shadow1);
-        display: none;
+        /* display: none; */
     }
 
     .hover__cont::after {
